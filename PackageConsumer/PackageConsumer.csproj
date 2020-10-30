@@ -5,4 +5,8 @@
     <RootNamespace>nuget_consuming_test</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="ProductNameGetter" Version="1.0.0" />
+  </ItemGroup>
+
 </Project>

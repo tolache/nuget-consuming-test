@@ -9,8 +9,9 @@ namespace nuget_consuming_test
         {
             get
             {
+                ProductNameGetter.ProductNameGetter getter = new ProductNameGetter.ProductNameGetter();
                 Console.WriteLine("Returning the product name.");
-                return "TBD";
+                return getter.GetProductName(_product);
             }
         }
     }
