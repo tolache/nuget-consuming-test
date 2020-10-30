@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumePackage", "ConsumePackage.csproj", "{A4C4D12F-C042-4253-AA92-E9A6275D1AA2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumePackage", "PackageConsumer.csproj", "{A4C4D12F-C042-4253-AA92-E9A6275D1AA2}"
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
