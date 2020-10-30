@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ProducePackage
+namespace ProductNameGetter
 {
     public class ProductNameGetter
     {

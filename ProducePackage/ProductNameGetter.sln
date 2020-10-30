@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProducePackage", "ProducePackage.csproj", "{BBDBC8E2-63EB-48B5-89B5-0CF5932D7328}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductNameGetter", "ProductNameGetter.csproj", "{BBDBC8E2-63EB-48B5-89B5-0CF5932D7328}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
