@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>nuget_consuming_test</RootNamespace>
+    <OutputType>exe</OutputType>
   </PropertyGroup>
 
   <ItemGroup>

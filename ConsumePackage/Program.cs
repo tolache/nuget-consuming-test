@@ -2,7 +2,7 @@
 
 namespace nuget_consuming_test
 {
-    class Program
+    static class Program
     {
         static void Main(string[] args)
         {
