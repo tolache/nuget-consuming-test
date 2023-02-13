@@ -6,7 +6,8 @@ namespace nuget_consuming_test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            ProductSerializer serializer = new();
+            Console.WriteLine(serializer.GetProductName);
         }
     }
 }
